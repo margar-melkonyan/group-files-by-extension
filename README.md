@@ -1,1 +1,1 @@
-go run main.go <dir_path>
+/* go run cmd/main.go <dir_path> */
